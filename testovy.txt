@@ -1,2 +1,6 @@
 1
+<<<<<<< HEAD
 3
+=======
+2 - Lukino
+>>>>>>> origin/my-branch
