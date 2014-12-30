@@ -13,8 +13,17 @@
     Foreground="{StaticResource PhoneForegroundBrush}"
     SupportedOrientations="Portrait"  Orientation="Portrait"
     shell:SystemTray.IsVisible="True">
-    <Button Content="Button" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" RenderTransformOrigin="0.843,0.914" Click="Button_Click"/>
 
     <!--Data context is set to sample data above and LayoutRoot contains the root grid where all other page content is placed-->
 
+    <Grid x:Name="LayoutRoot" Tap="tapOn">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF3E9E39"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock x:Name="nazov_aplikacie" TextWrapping="Wrap" Text="Smart Pocket" VerticalAlignment="Top" Foreground="#FF072E05" FontFamily="Buxton Sketch" FontWeight="Bold" FontSize="48" HorizontalAlignment="Center" Margin="0,300,0,0"/>
+    </Grid>
+    
 </phone:PhoneApplicationPage>
