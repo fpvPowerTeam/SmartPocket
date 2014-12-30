@@ -1,15 +1,21 @@
-﻿<xapCache source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Bin\Debug\smart_pocket_data_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12/30/2014 3:42:35 PM">
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\obj\Debug\smart_pocket_data.dll" archivePath="smart_pocket_data.dll" lastWriteTime="12/30/2014 3:42:34 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12/29/2014 12:57:39 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/29/2014 12:57:39 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/29/2014 12:57:39 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12/29/2014 12:57:39 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12/29/2014 12:57:39 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\images\minus.png" archivePath="images\minus.png" lastWriteTime="12/29/2014 2:01:07 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\images\plus.png" archivePath="images\plus.png" lastWriteTime="12/29/2014 2:01:07 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/29/2014 12:57:47 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Bin\Debug\pocket.sdf" archivePath="pocket.sdf" lastWriteTime="12/29/2014 2:46:48 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/29/2014 12:57:39 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/29/2014 12:57:39 PM" />
-  <file source="C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/29/2014 12:57:47 PM" />
+﻿<xapCache source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\smart_pocket_data_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="30.12.2014 23:14:42">
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\smart_pocket_data.dll" archivePath="smart_pocket_data.dll" lastWriteTime="30.12.2014 23:14:41" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\images\minus.png" archivePath="images\minus.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\images\plus.png" archivePath="images\plus.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="30.12.2014 23:14:42" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\pocket.sdf" archivePath="pocket.sdf" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="30.12.2014 22:57:36" />
+  <file source="J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="30.12.2014 22:57:36" />
 </xapCache>

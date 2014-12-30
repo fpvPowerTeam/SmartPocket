@@ -46,3 +46,27 @@ C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_po
 C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\obj\Debug\smart_pocket_data.dll
 C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\obj\Debug\smart_pocket_data.pdb
 C:\Users\Lukino\Documents\Visual Studio 2012\Projects\smart_pocket_data\smart_pocket_data\obj\Debug\XapCacheFile.xml
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\App.g.cs
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\DetailsPage.g.cs
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\MainPage.g.cs
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\novy_zaznam.g.cs
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\prehlad_mesiaca.g.cs
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\uvod.g.cs
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\smart_pocket_data.g.resources
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\smart_pocket_data.Resources.AppResources.resources
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\smart_pocket_data.csproj.GenerateResource.Cache
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\smart_pocket_data.dll
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\ApplicationIcon.png
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\pocket.sdf
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\smart_pocket_data.dll
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\smart_pocket_data.pdb
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\smart_pocket_data.pdb
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\AppManifest.xaml
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\Properties\WMAppManifest.xml
+J:\smart_pocket\SmartPocket\smart_pocket_data\Bin\Debug\smart_pocket_data_Debug_AnyCPU.xap
+J:\smart_pocket\SmartPocket\smart_pocket_data\obj\Debug\XapCacheFile.xml

@@ -24,5 +24,10 @@ namespace smart_pocket_data
         {
             NavigationService.Navigate(new Uri("/uvod.xaml", UriKind.Relative));
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
