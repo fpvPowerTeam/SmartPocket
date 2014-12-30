@@ -1,0 +1,45 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="smart_pocket_data.uvod"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="White">
+        <TextBlock HorizontalAlignment="Center" Height="29" TextWrapping="Wrap" Text="aktualny stav:" VerticalAlignment="Top" Width="134" Margin="44,109,302,0" Foreground="Black" FontWeight="Bold"/>
+        <Grid x:Name="aktualna_pozadie" HorizontalAlignment="Center" Height="47" Margin="195,100,75,0" VerticalAlignment="Top" Width="210" Background="Red"/>
+        <TextBlock x:Name="suma_aktualna" HorizontalAlignment="Left" Margin="204,109,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="137" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,189,0,0" TextWrapping="Wrap" Text="zostava na minutie" VerticalAlignment="Top" Foreground="Black" FontWeight="Bold" RenderTransformOrigin="0.478,2.916"/>
+        <TextBlock HorizontalAlignment="Left" Margin="125,241,0,0" TextWrapping="Wrap" Text="dnes:" VerticalAlignment="Top" Foreground="Black" FontWeight="Bold" Width="53"/>
+        <Grid x:Name="aktualna_pozadie_Copy" HorizontalAlignment="Left" Height="47" Margin="195,230,0,0" VerticalAlignment="Top" Width="210" Background="Red"/>
+        <Grid x:Name="aktualna_pozadie_Copy1" HorizontalAlignment="Left" Height="47" Margin="195,312,0,0" VerticalAlignment="Top" Width="210" Background="Red"/>
+        <TextBlock HorizontalAlignment="Left" Margin="53,321,0,0" TextWrapping="Wrap" Text="tento mesiac:" VerticalAlignment="Top" Foreground="Black" FontWeight="Bold"/>
+        <TextBlock x:Name="suma_dnes" HorizontalAlignment="Left" Margin="204,241,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="137" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock x:Name="suma_mesiac" HorizontalAlignment="Left" Margin="204,321,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="137" FontWeight="Bold" Foreground="Black"/>
+        <Grid HorizontalAlignment="Left" Height="48" Margin="0,380,0,0" VerticalAlignment="Top" Width="480" Background="#FFF4F4F4" Tap="novy_zaznam_tap">
+            <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="novy zaznam" VerticalAlignment="Top" Foreground="#FF007AFF"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="48" Margin="0,541,0,0" VerticalAlignment="Top" Width="480" Background="#FFF4F4F4">
+            <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="plan setrenia" VerticalAlignment="Top" Foreground="#FF007AFF"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="48" Margin="0,616,0,0" VerticalAlignment="Top" Width="480" Background="#FFF4F4F4" Tap="prehlad_mesiaca_tap">
+            <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="prehlad za mesiac" VerticalAlignment="Top" Foreground="#FF007AFF"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="48" Margin="0,690,0,0" VerticalAlignment="Top" Width="480" Background="#FFF4F4F4" Tap="koniec_tap">
+            <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="koniec" VerticalAlignment="Top" Foreground="#FF007AFF"/>
+        </Grid>
+        <Grid x:Name="aktualna_pozadie_Copy2" HorizontalAlignment="Left" Height="47" Margin="195,472,0,0" VerticalAlignment="Top" Width="210" Background="Red"/>
+        <TextBlock HorizontalAlignment="Left" Margin="34,482,0,0" TextWrapping="Wrap" Text="ostava nasetrit:" VerticalAlignment="Top" Foreground="Black" FontWeight="Bold"/>
+        <TextBlock x:Name="suma_mesiac_Copy" HorizontalAlignment="Left" Margin="204,482,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="137" FontWeight="Bold" Foreground="Black"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>
