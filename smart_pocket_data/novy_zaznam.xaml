@@ -90,10 +90,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="445,435,0,0" TextWrapping="Wrap" Text="€" VerticalAlignment="Top" Height="55" Width="35" Foreground="Black" FontSize="36"/>
         <Image x:Name="plus" HorizontalAlignment="Left" Height="55" Margin="10,435,0,278" VerticalAlignment="Center" Width="55" Source="/images/plus.png" Tap="plus_tap"/>
         <Image HorizontalAlignment="Left" Height="55" Margin="75,435,0,0" VerticalAlignment="Top" Width="55" Source="/images/minus.png" Tap="minus_tap"/>
-
-
-        <ListBox x:Name="listBox"   Margin="0,0,0,353" Style="{StaticResource ListBoxStyle1}">
-            </ListBox>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="240,162,0,0" VerticalAlignment="Top" Background="Black"/>
         <!-- LIST BOX EDIT
         Background="#FFC3BABA" BorderThickness="0,0,1,0" FontSize="36" Foreground="Black" BorderBrush="Black" Padding="10,0,0,0" UseLayoutRounding="False" FontWeight="Bold"
         -->
